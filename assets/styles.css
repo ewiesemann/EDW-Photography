@@ -1,11 +1,12 @@
 .image1 {
     background-image: url(lens.jpg);
-    background-size: 100% auto;
-    height: 900px;
+    background-size: cover;
+    min-height: 100vh;
+    background-repeat: no-repeat;
 }
 .row2 {
     background-color: gray;
-    height: 500px;  
+    min-height: 500px;  
 }
 
 .row3 {
@@ -16,10 +17,11 @@
 
 .image3 {
     background-image: url(lightning.jpg);
-    background-size: 100% auto;
-    height: 500px ;
+    background-size: cover;
+    min-height: 75vh;
+    background-repeat: no-repeat;
 }
 .row4 {
     background-color: black;
-    height: 100px;
+    min-height: 100px;
 }
