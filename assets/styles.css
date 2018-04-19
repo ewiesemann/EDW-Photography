@@ -4,11 +4,12 @@
     height: 900px;
 }
 .row2 {
-    background-color: rgb(105, 99, 99);
-    height: 500px;
+    background-color: gray;
+    height: 500px;  
 }
 
 .row3 {
+    background-color: rgb(53, 47, 47);
     height: 400px;
     text-align: center;
 }
@@ -16,7 +17,7 @@
 .image3 {
     background-image: url(lightning.jpg);
     background-size: 100% auto;
-    height: 500px;
+    height: 500px ;
 }
 .row4 {
     background-color: black;
