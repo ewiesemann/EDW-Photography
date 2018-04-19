@@ -1,0 +1,24 @@
+.image1 {
+    background-image: url(camera-lens-bokeh-dreamy-670x335.jpg);
+    background-size: 100% auto;
+    height: 900px;
+}
+.row2 {
+    background-color: rgb(105, 99, 99);
+    height: 500px;
+}
+
+.row3 {
+    height: 400px;
+    text-align: center;
+}
+
+.image3 {
+    background-image: url(boise-google-map-pack-high-rankings.jpg);
+    background-size: 100% auto;
+    height: 500px;
+}
+.row4 {
+    background-color: black;
+    height: 100px;
+}
